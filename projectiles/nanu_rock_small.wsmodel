@@ -1,0 +1,10 @@
+<model version="1">
+	<geometry>projectiles\nanu_rock_small.rigid_model_v2</geometry>
+		<materials>
+			<material lod_index="0" part_index="0">projectiles\materials\wh_emp_grenade_shrapnel_lod1_rigid_alpha_on.xml.material</material>
+
+
+
+
+	</materials>
+</model>
