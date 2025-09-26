@@ -1,0 +1,6 @@
+key	night_battles_only	your_force_type	their_force_type	war_contract_battles_only
+#campaign_bonus_value_battle_context_specifiers_tables;1;db/campaign_bonus_value_battle_context_specifiers_tables/nanu_dynamic_rors				
+fighting_culture_forces_of_evil	false			false
+fighting_ground_type_mountain	false			false
+fighting_ground_type_mountain_hills	false			false
+fighting_ground_type_tundra	false			false

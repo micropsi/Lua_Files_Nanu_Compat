@@ -1,0 +1,6 @@
+id	incident_key	option_key	value	target
+#cdir_events_incident_option_junctions_tables;1;db/cdir_events_incident_option_junctions_tables/nanu_dynamic_rors				
+800720000	nanu_dynamic_ror_incident_ror_created	VAR_CHANCE	100	default
+800720001	nanu_dynamic_ror_incident_ror_created	GEN_TARGET_MODEL		target_military_1
+800720002	nanu_dynamic_ror_incident_ror_created_no_target	VAR_CHANCE	100	default
+800720003	nanu_dynamic_ror_incident_ror_created_no_target	GEN_TARGET_NONE		default

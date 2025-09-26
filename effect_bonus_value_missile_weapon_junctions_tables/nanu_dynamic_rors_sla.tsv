@@ -1,0 +1,7 @@
+bonus_value_id	effect	missile_weapon_junction
+#effect_bonus_value_missile_weapon_junctions_tables;0;db/effect_bonus_value_missile_weapon_junctions_tables/nanu_dynamic_rors_sla		
+enable	nanu_ammo_type_anti_infantry	800770000
+enable	nanu_ammo_type_anti_large	800770001
+enable	nanu_ammo_type_explosive	800770002
+enable	nanu_ammo_type_multi	800770003
+enable	nanu_ammo_type_seeking	800770004

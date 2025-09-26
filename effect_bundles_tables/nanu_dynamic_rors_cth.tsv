@@ -1,0 +1,21 @@
+key	localised_description	localised_title	bundle_target	priority	ui_icon	is_global_effect	show_in_3d_space	owner_only
+#effect_bundles_tables;4;db/effect_bundles_tables/nanu_dynamic_rors_cth								
+nanu_dynamic_ror_cathay_ability_all_martial_mastery			character	1		true	false	true
+nanu_dynamic_ror_cathay_ability_all_stone_and_steel			character	1		true	false	true
+nanu_dynamic_ror_cathay_ability_all_tactician			character	1		true	false	true
+nanu_dynamic_ror_cathay_ability_melee_strength_of_the_great_bastion			character	1		true	false	true
+nanu_dynamic_ror_cathay_ability_melee_warding_iron			character	1		true	false	true
+nanu_dynamic_ror_cathay_ability_melee_will_of_the_dragons			character	1		true	false	true
+nanu_dynamic_ror_cathay_attribute_all_amphibious_vanguard_strider			character	1		true	false	true
+nanu_dynamic_ror_special_cathay_ally_ability_melee_strength_of_the_great_bastion			character	1		true	false	true
+nanu_dynamic_ror_special_cathay_ally_ability_melee_warding_iron			character	1		true	false	true
+nanu_dynamic_ror_special_cathay_ally_ability_ranged_volley_fire_charge			character	1		true	false	true
+nanu_dynamic_ror_special_cathay_ally_ability_ranged_volley_fire_charge_greater			character	1		true	false	true
+nanu_dynamic_ror_special_cathay_enemy_ability_melee_chaos_armour			character	1		true	false	true
+nanu_dynamic_ror_special_cathay_enemy_ability_melee_aura_of_shielding			character	1		true	false	true
+nanu_dynamic_ror_special_cathay_enemy_ability_melee_disharmony			character	1		true	false	true
+nanu_dynamic_ror_special_cathay_enemy_contact_all_armour_destruction_attacks			character	1		true	false	true
+nanu_dynamic_ror_special_cathay_enemy_contact_all_disharmonious_attacks			character	1		true	false	true
+nanu_dynamic_ror_cathay_ability_all_special_heroic_victory_stone_and_steel_attribute_immPsy_encourage			character	1		true	false	true
+nanu_dynamic_ror_cathay_ability_all_special_heroic_victory_strength_of_the_great_bastion_attribute_immPsy_encourage			character	1		true	false	true
+nanu_dynamic_ror_cathay_ability_melee_special_pyrrhic_victory_warding_iron_attribute_unbreakable			character	1		true	false	true
