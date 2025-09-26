@@ -1,0 +1,6 @@
+key	text	tooltip
+#Loc;1;text/db/nanu_dynamic_rors_incidents__.loc		
+incidents_localised_title_nanu_dynamic_ror_incident_ror_created	New Regiment of Renown	false
+incidents_localised_description_nanu_dynamic_ror_incident_ror_created	One of your units has proven themselves in battle, attaining new abilities and solidifying their fame across your domain.	false
+incidents_localised_title_nanu_dynamic_ror_incident_ror_created_no_target	New Regiment of Renown	false
+incidents_localised_description_nanu_dynamic_ror_incident_ror_created_no_target	One of your units has proven themselves in battle, attaining new abilities and solidifying their fame across your domain.	false

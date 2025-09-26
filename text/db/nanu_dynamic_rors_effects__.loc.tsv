@@ -1,0 +1,563 @@
+key	text	tooltip
+#Loc;1;text/db/nanu_dynamic_rors_effects__.loc		
+effects_description_nanu_ammo_type_arcane_fire	Magic Flaming Ammunition	false
+effects_description_nanu_ammo_type_flaming	Flaming Ammunition	false
+effects_description_nanu_ammo_type_frozen	Frozen Ammunition	false
+effects_description_nanu_ammo_type_lightning	Lightning Ammunition	false
+effects_description_nanu_ammo_type_magic	Magic Ammunition	false
+effects_description_nanu_ammo_type_poison	Poison Ammunition	false
+effects_description_nanu_ammo_type_anti_infantry	Anti Infantry Ammunition	false
+effects_description_nanu_ammo_type_anti_infantry_arcane_fire	Magic Flaming Anti Infantry Ammunition	false
+effects_description_nanu_ammo_type_anti_infantry_flaming	Flaming Anti Infantry Ammunition	false
+effects_description_nanu_ammo_type_anti_infantry_frozen	Frozen Anti Infantry Ammunition	false
+effects_description_nanu_ammo_type_anti_infantry_lightning	Lightning Anti Infantry Ammunition	false
+effects_description_nanu_ammo_type_anti_infantry_magic	Magic Anti Infantry Ammunition	false
+effects_description_nanu_ammo_type_anti_infantry_poison	Poison Anti Infantry Ammunition	false
+effects_description_nanu_ammo_type_anti_large	Anti Large Ammunition	false
+effects_description_nanu_ammo_type_anti_large_arcane_fire	Magic Flaming Anti Large Ammunition	false
+effects_description_nanu_ammo_type_anti_large_flaming	Flaming Anti Large Ammunition	false
+effects_description_nanu_ammo_type_anti_large_frozen	Frozen Anti Large Ammunition	false
+effects_description_nanu_ammo_type_anti_large_lightning	Lightning Anti Large Ammunition	false
+effects_description_nanu_ammo_type_anti_large_magic	Magic Anti Large Ammunition	false
+effects_description_nanu_ammo_type_anti_large_poison	Poison Anti Large Ammunition	false
+effects_description_nanu_ammo_type_explosive	Explosive Ammunition	false
+effects_description_nanu_ammo_type_explosive_arcane_fire	Magic Flaming Explosive Ammunition	false
+effects_description_nanu_ammo_type_explosive_flaming	Flaming Explosive Ammunition	false
+effects_description_nanu_ammo_type_explosive_frozen	Frozen Explosive Ammunition	false
+effects_description_nanu_ammo_type_explosive_lightning	Lightning Explosive Ammunition	false
+effects_description_nanu_ammo_type_explosive_magic	Magic Explosive Ammunition	false
+effects_description_nanu_ammo_type_explosive_poison	Poison Explosive Ammunition	false
+effects_description_nanu_ammo_type_multi	Multi Shot Ammo	false
+effects_description_nanu_ammo_type_multi_arcane_fire	Multi Shot Magic Flaming Ammo	false
+effects_description_nanu_ammo_type_multi_flaming	Multi Shot Flaming Ammo	false
+effects_description_nanu_ammo_type_multi_frozen	Multi Shot Frozen Ammo	false
+effects_description_nanu_ammo_type_multi_lightning	Multi Shot Lightning Ammo	false
+effects_description_nanu_ammo_type_multi_magic	Multi Shot Magic Ammo	false
+effects_description_nanu_ammo_type_multi_poison	Multi Shot Poison Ammo	false
+effects_description_nanu_attribute_cause_fear_vs_bretonnia	Attribute: Causes Fear when fighting against Bretonnia	false
+effects_description_nanu_attribute_cause_fear_vs_elves	Attribute: Causes Fear when fighting against Elves	false
+effects_description_nanu_attribute_cause_fear_vs_forces_of_order	Attribute: Causes Fear when fighting against High Elves, Lizardmen, Dwarfs and men	false
+effects_description_nanu_attribute_cause_terror_vs_bst	Attribute: Causes Terror when fighting against Beastmen	false
+effects_description_nanu_attribute_cause_terror_vs_elves	Attribute: Causes Terror when fighting against Elves	false
+effects_description_nanu_attribute_cause_terror_vs_empire	Attribute: Causes Terror when fighting against Empire	false
+effects_description_nanu_attribute_cause_terror_vs_forces_of_destruction	Attribute: Causes Terror when fighting against Greenskins, Skaven, Dark Elves, Beastmen, Warriors of Chaos, Daemons of Chaos and Norsca	false
+effects_description_nanu_attribute_cause_terror_vs_forces_of_order	Attribute: Causes Terror when fighting against High Elves, Lizardmen, Dwarfs and men	false
+effects_description_nanu_attribute_cause_terror_vs_hef	Attribute: Causes Terror when fighting against High Elves	false
+effects_description_nanu_attribute_cause_terror_vs_human	Attribute: Causes Terror when fighting against Humans	false
+effects_description_nanu_attribute_cause_terror_vs_khorne	Attribute: Causes Terror when fighting against Khornate Factions	false
+effects_description_nanu_attribute_cause_terror_vs_lzd	Attribute: Causes Terror when fighting against Lizardmen	false
+effects_description_nanu_attribute_cause_terror_vs_slaanesh	Attribute: Causes Terror when fighting against Slaaneshi Factions	false
+effects_description_nanu_attribute_cause_terror_vs_wef	Attribute: Causes Terror when fighting against Wood Elves	false
+effects_description_nanu_attribute_enable_encourage	Attribute: Encourage	false
+effects_description_nanu_attribute_enable_flanking_immune	Attribute: Immune to Flanking	false
+effects_description_nanu_attribute_enable_glorious_charge	Attribute: Glorious Charge	false
+effects_description_nanu_attribute_enable_knight	Attribute: Knight	false
+effects_description_nanu_attribute_enable_ogre_charge	Attribute: Ogre Charge	false
+effects_description_nanu_attribute_immPsy_vs_chaos	Attribute: Immune to Psychology when fighting against Warriors of Chaos, Daemons of Chaos and Norsca	false
+effects_description_nanu_attribute_immPsy_vs_forces_of_destruction	Attribute: Immune to Psychology when fighting against Greenskins, Skaven, Dark Elves, Beastmen, Warriors of Chaos, Daemons of Chaos and Norsca	false
+effects_description_nanu_attribute_immPsy_vs_khorne	Attribute: Immune to Psychology when fighting against Khornate Factions	false
+effects_description_nanu_attribute_immPsy_vs_lizardmen	Attribute: Immune to Psychology when fighting against Lizardmen	false
+effects_description_nanu_attribute_immPsy_vs_nurgle	Attribute: Immune to Psychology when fighting against Nurglish Factions	false
+effects_description_nanu_attribute_immPsy_vs_slaanesh	Attribute: Immune to Psychology when fighting against Slaaneshi Factions	false
+effects_description_nanu_attribute_immPsy_vs_undead	Attribute: Immune to Psychology when fighting against Undead Factions	false
+effects_description_nanu_attribute_unbreakable_vs_chaos	Attribute: Unbreakable when fighting against Warriors of Chaos, Daemons of Chaos and Norsca	false
+effects_description_nanu_attribute_unbreakable_vs_forces_of_destruction	Attribute: Unbreakable when fighting against Greenskins, Skaven, Dark Elves, Beastmen, Warriors of Chaos, Daemons of Chaos and Norsca	false
+effects_description_nanu_attribute_unbreakable_vs_greenskins	Attribute: Unbreakable when fighting against Greenskins	false
+effects_description_nanu_attribute_unbreakable_vs_khorne	Attribute: Unbreakable when fighting against Khornate Factions	false
+effects_description_nanu_attribute_unbreakable_vs_nurgle	Attribute: Unbreakable when fighting against Nurglish Factions	false
+effects_description_nanu_attribute_unbreakable_vs_slaanesh	Attribute: Unbreakable when fighting against Slaaneshi Factions	false
+effects_description_nanu_attribute_unbreakable_vs_undead	Attribute: Unbreakable when fighting against Undead Factions	false
+effects_description_nanu_context_armoured	Won a battle	false
+effects_description_nanu_context_armoured_ally	Won a battle alongside a heavily armoured faction	false
+effects_description_nanu_context_armoured_enemy	Won a battle against a heavily armoured faction	false
+effects_description_nanu_context_basic	Won a battle	false
+effects_description_nanu_context_beastmen	Won a Battle	false
+effects_description_nanu_context_beastmen_ally	Won a Battle alongside Beastmen	false
+effects_description_nanu_context_beastmen_enemy	Won a Battle against Beastmen	false
+effects_description_nanu_context_bretonnia	Won a Battle	false
+effects_description_nanu_context_bretonnia_ally	Won a Battle alongside Bretonnia	false
+effects_description_nanu_context_bretonnia_enemy	Won a Battle against Bretonnia	false
+effects_description_nanu_context_cathay	Won a Battle	false
+effects_description_nanu_context_cathay_ally	Won a Battle alongside Cathay	false
+effects_description_nanu_context_cathay_enemy	Won a Battle against Cathay	false
+effects_description_nanu_context_chaos	Won a battle	false
+effects_description_nanu_context_chaos_ally	Won a battle alongside the Forces of Chaos	false
+effects_description_nanu_context_chaos_enemy	Won a battle against the Forces of Chaos	false
+effects_description_nanu_context_chorfs	Won a Battle	false
+effects_description_nanu_context_chorfs_ally	Won a Battle alongside Chaos Dwarfs	false
+effects_description_nanu_context_chorfs_enemy	Won a Battle against Chaos Dwarfs	false
+effects_description_nanu_context_dark_elf	Won a Battle	false
+effects_description_nanu_context_dark_elf_ally	Won a Battle alongside Dark Elves	false
+effects_description_nanu_context_dark_elf_enemy	Won a Battle against Dark Elves	false
+effects_description_nanu_context_dwarf	Won a battle	false
+effects_description_nanu_context_dwarf_ally	Won a battle alongside an Dwarf Faction	false
+effects_description_nanu_context_dwarf_enemy	Won a battle against a Dwarf Faction	false
+effects_description_nanu_context_elven	Won a battle	false
+effects_description_nanu_context_elven_ally	Won a battle alongside Elves	false
+effects_description_nanu_context_elven_enemy	Won a battle against Elves	false
+effects_description_nanu_context_empire	Won a Battle	false
+effects_description_nanu_context_empire_ally	Won a Battle alongside the Empire	false
+effects_description_nanu_context_empire_enemy	Won a Battle against the Empire	false
+effects_description_nanu_context_forces_of_destruction	Won a battle	false
+effects_description_nanu_context_forces_of_destruction_ally	Won a battle alongside the forces of Death and Destruction	false
+effects_description_nanu_context_forces_of_destruction_enemy	Won a battle against forces of Death and Destruction	false
+effects_description_nanu_context_greenskin	Won a battle	false
+effects_description_nanu_context_greenskin_ally	Won a battle alongside a Greenskin Faction	false
+effects_description_nanu_context_greenskin_enemy	Won a battle against a Greenskin Faction	false
+effects_description_nanu_context_high_elf	Won a Battle	false
+effects_description_nanu_context_high_elf_ally	Won a Battle alongside High Elves	false
+effects_description_nanu_context_high_elf_enemy	Won a Battle against High Elves	false
+effects_description_nanu_context_human	Won a battle	false
+effects_description_nanu_context_human_ally	Won a battle alongside a human faction	false
+effects_description_nanu_context_human_enemy	Won a battle against a human faction	false
+effects_description_nanu_context_khorne	Won a battle	false
+effects_description_nanu_context_khorne_ally	Won a battle alongside a Khornate Faction	false
+effects_description_nanu_context_khorne_enemy	Won a battle against a Khornate Faction	false
+effects_description_nanu_context_kislev	Won a battle	false
+effects_description_nanu_context_kislev_ally	Won a battle alongside a Kislev Faction	false
+effects_description_nanu_context_kislev_enemy	Won a battle against a Kislev Faction	false
+effects_description_nanu_context_knight	Won a battle	false
+effects_description_nanu_context_knight_ally	Won a battle alongside a Character or Faction that uses knights	false
+effects_description_nanu_context_knight_enemy	Won a battle against a Character or Faction that uses knights	false
+effects_description_nanu_context_lizardmen	Won a Battle	false
+effects_description_nanu_context_lizardmen_ally	Won a Battle alongside Lizardmen	false
+effects_description_nanu_context_lizardmen_enemy	Won a Battle against Lizardmen	false
+effects_description_nanu_context_magic	Won a battle	false
+effects_description_nanu_context_magic_ally	Won a battle alongside a Character or Faction that relies heavily on Magic	false
+effects_description_nanu_context_magic_enemy	Won a battle against a Character or Faction that relies heavily on Magic	false
+effects_description_nanu_context_monstrous	Won a battle	false
+effects_description_nanu_context_monstrous_ally	Won a battle alongside a Character or Faction that uses monstrous units	false
+effects_description_nanu_context_monstrous_enemy	Won a battle against a Character or Faction that uses monstrous units	false
+effects_description_nanu_context_norsca	Won a battle	false
+effects_description_nanu_context_norsca_ally	Won a battle alongside a Norsca Faction	false
+effects_description_nanu_context_norsca_enemy	Won a battle against a Norsca Faction	false
+effects_description_nanu_context_nurgle	Won a battle	false
+effects_description_nanu_context_nurgle_ally	Won a battle alongside a Nurglish Faction	false
+effects_description_nanu_context_nurgle_enemy	Won a battle against a Nurglish Faction	false
+effects_description_nanu_context_forces_of_order	Won a battle	false
+effects_description_nanu_context_forces_of_order_ally	Won a battle alongside the forces of Order	false
+effects_description_nanu_context_forces_of_order_enemy	Won a battle against the forces of Order	false
+effects_description_nanu_context_ogre	Won a battle	false
+effects_description_nanu_context_ogre_ally	Won a battle alongside an Ogre Kingdoms Faction	false
+effects_description_nanu_context_ogre_enemy	Won a battle against an Ogre Kingdoms Faction	false
+effects_description_nanu_context_plague	Won a battle	false
+effects_description_nanu_context_plague_ally	Won a battle alongside a Character or Faction that spreads plagues	false
+effects_description_nanu_context_plague_enemy	Won a battle against a Character or Faction that spreads plagues	false
+effects_description_nanu_context_skaven	Won a Battle	false
+effects_description_nanu_context_skaven_ally	Won a Battle alongside Skaven	false
+effects_description_nanu_context_skaven_enemy	Won a Battle against Skaven	false
+effects_description_nanu_context_slaanesh	Won a battle	false
+effects_description_nanu_context_slaanesh_ally	Won a battle alongside a Slaaneshi Character or Faction	false
+effects_description_nanu_context_slaanesh_enemy	Won a battle against a Slaaneshi Character or Faction	false
+effects_description_nanu_context_tomb_king	Won a Battle	false
+effects_description_nanu_context_tomb_king_ally	Won a Battle alongside Tomb Kings	false
+effects_description_nanu_context_tomb_king_enemy	Won a Battle against Tomb Kings	false
+effects_description_nanu_context_tzeentch	Won a battle	false
+effects_description_nanu_context_tzeentch_ally	Won a battle alongside a Tzeentchian Faction	false
+effects_description_nanu_context_tzeentch_enemy	Won a battle against a Tzeentchian Faction	false
+effects_description_nanu_context_undead	Won a Battle	false
+effects_description_nanu_context_undead_ally	Won a Battle alongside Undead	false
+effects_description_nanu_context_undead_enemy	Won a Battle against Undead	false
+effects_description_nanu_context_vampire_coast	Won a Battle	false
+effects_description_nanu_context_vampire_coast_ally	Won a Battle alongside Vampire Coast	false
+effects_description_nanu_context_vampire_coast_enemy	Won a Battle against Vampire Coast	false
+effects_description_nanu_context_vampire_counts	Won a Battle	false
+effects_description_nanu_context_vampire_counts_ally	Won a Battle alongside Vampire Counts	false
+effects_description_nanu_context_vampire_counts_enemy	Won a Battle against Vampire Counts	false
+effects_description_nanu_context_victory_over_khorne	Granted for achieving victory over Khorne	false
+effects_description_nanu_context_wood_elf	Won a Battle	false
+effects_description_nanu_context_wood_elf_ally	Won a Battle alongside Wood Elves	false
+effects_description_nanu_context_wood_elf_enemy	Won a Battle against Wood Elves	false
+effects_description_nanu_dummy_ammo_type_anti_infantry	Grants Anti Infantry Ammunition to eligible units	false
+effects_description_nanu_dummy_ammo_type_anti_infantry_arcane_fire	Grants Magic Flaming Anti Infantry Ammunition to eligible units	false
+effects_description_nanu_dummy_ammo_type_anti_infantry_flaming	Grants Flaming Anti Infantry Ammunition to eligible units	false
+effects_description_nanu_dummy_ammo_type_anti_infantry_magic	Grants Magic Anti Infantry Ammunition to eligible units	false
+effects_description_nanu_dummy_ammo_type_anti_infantry_poison	Grants Poison Anti Infantry Ammunition to eligible units	false
+effects_description_nanu_dummy_ammo_type_anti_large	Grants Anti Large Ammunition to eligible units	false
+effects_description_nanu_dummy_ammo_type_anti_large_arcane_fire	Grants Magic Flaming Anti Large Ammunition to eligible units	false
+effects_description_nanu_dummy_ammo_type_anti_large_flaming	Grants Flaming Anti Large Ammunition to eligible units	false
+effects_description_nanu_dummy_ammo_type_anti_large_magic	Grants Magic Anti Large Ammunition to eligible units	false
+effects_description_nanu_dummy_ammo_type_anti_large_poison	Grants Poison Anti Large Ammunition to eligible units	false
+effects_description_nanu_dummy_ammo_type_arcane_fire	Grants Magic Flaming Ammunition to eligible units	false
+effects_description_nanu_dummy_ammo_type_explosive	Grants Explosive Ammunition to eligible units	false
+effects_description_nanu_dummy_ammo_type_explosive_arcane_fire	Grants Magic Flaming Explosive Ammunition to eligible units	false
+effects_description_nanu_dummy_ammo_type_explosive_flaming	Grants Flaming Explosive Ammunition to eligible units	false
+effects_description_nanu_dummy_ammo_type_explosive_magic	Grants Magic Explosive Ammunition to eligible units	false
+effects_description_nanu_dummy_ammo_type_explosive_poison	Grants Poison Explosive Ammunition to eligible units	false
+effects_description_nanu_dummy_ammo_type_flaming	Grants Flaming Ammunition to eligible units	false
+effects_description_nanu_dummy_ammo_type_magic	Grants Magic Ammunition to eligible units	false
+effects_description_nanu_dummy_ammo_type_multi	Grants Multi Shot Ammo to eligible units	false
+effects_description_nanu_dummy_ammo_type_multi_arcane_fire	Grants Multi Shot Magic Flaming Ammo to eligible units	false
+effects_description_nanu_dummy_ammo_type_multi_flaming	Grants Multi Shot Flaming Ammo to eligible units	false
+effects_description_nanu_dummy_ammo_type_multi_magic	Grants Multi Shot Magic Ammo to eligible units	false
+effects_description_nanu_dummy_ammo_type_multi_poison	Grants Multi Shot Poison Ammo to eligible units	false
+effects_description_nanu_dummy_ammo_type_poison	Grants Poison Ammunition to eligible units	false
+effects_description_nanu_kislev_winter_attrition_immunity	Immune to Kislev Winter attrition	false
+effects_description_nanu_missile_damage_vs_tzeentch	Missile damage: %+n% when fighting against Tzeentchian Factions	false
+effects_description_nanu_stat_melee_attack_versus_grn_skv_lzd	Melee attack: %+n when fighting against Greenskins, Skaven, Ogres and Lizardmen	false
+effects_description_nanu_stat_melee_attack_vs_empire_and_bretonnia	Melee attack: %+n when fighting against The Empire and Bretonnia	false
+effects_description_nanu_stat_melee_attack_vs_kislev	Melee attack: %+n when fighting against Kislev	false
+effects_description_nanu_stat_melee_attack_vs_order	Melee Attack: %+n when fighting against High Elves, Lizardmen, Dwarfs and men	false
+effects_description_nanu_stat_melee_damage_ap_add	Armour-piercing weapon damage: %+n	false
+effects_description_nanu_stat_melee_damage_ap_mult	Armour-piercing weapon damage: %+n%	false
+effects_description_nanu_stat_melee_damage_base_add	Base weapon damage: %+n	false
+effects_description_nanu_stat_melee_damage_base_mult	Base weapon damage: %+n%	false
+effects_description_nanu_stat_melee_damage_mult	Weapon strength: %+n%	false
+effects_description_nanu_stat_melee_damage_vs_bretonnia	Weapon Strength: %+n% when fighting against Bretonnia	false
+effects_description_nanu_stat_melee_damage_vs_empire	Weapon strength: %+n% when fighting against Empire	false
+effects_description_nanu_stat_melee_damage_vs_forces_of_evil	Weapon Strength: %+n% when fighting against Vampire Counts, Skaven, Dark Elves, Beastmen, Warriors of Chaos, and Daemons of Chaos	false
+effects_description_nanu_stat_melee_damage_vs_kislev	Weapon Strength: %+n% when fighting against Kislev	false
+effects_description_nanu_stat_melee_damage_vs_wood_elves	Weapon Strength: %+n% when fighting against Wood Elves	false
+effects_description_nanu_stat_melee_defence_vs_kislev	Melee defence: %+n when fighting against Kislev	false
+effects_description_nanu_stat_melee_defence_vs_nurgle	Melee defence: %+n when fighting against Nurglish Factions	false
+effects_description_nanu_stat_melee_defence_vs_ogres	Melee defence: %+n when fighting against Ogre Kingdoms	false
+effects_description_nanu_stat_melee_defence_vs_slaanesh	Melee defence: %+n when fighting against Slaaneshi factions	false
+effects_description_nanu_stat_melee_defense_vs_bretonnia_enemies	Melee defence: %+n when fighting against Warriors of Chaos, Chaos Dwarfs, Daemons of Chaos, Undead and Greenskins	false
+effects_description_nanu_stat_missile_damage_ap_add	Armour-piercing missile damage: %+n	false
+effects_description_nanu_stat_missile_damage_ap_mult	Armour-piercing Missile damage: %+n%	false
+effects_description_nanu_stat_missile_damage_base_add	Base Missile damage: %+n	false
+effects_description_nanu_stat_missile_damage_base_mult	Base Missile damage: %+n%	false
+effects_description_nanu_stat_missile_damage_mult	Missile Damage: %+n%	false
+effects_description_nanu_stat_missile_damage_vs_bretonnia	Missile damage: %+n% when fighting against Bretonnia	false
+effects_description_nanu_stat_missile_damage_vs_chaos	Missile damage: %+n% when fighting against Warriors of Chaos, Daemons of Chaos and Norsca	false
+effects_description_nanu_stat_missile_damage_vs_dark_elves	Missile damage: %+n% when fighting against Dark Elves	false
+effects_description_nanu_stat_missile_damage_vs_dwarfs	Missile Damage: %n% when fighting against Dwarfs	false
+effects_description_nanu_stat_missile_damage_vs_elves	Missile Damage: %n% when fighting against Elves	false
+effects_description_nanu_stat_missile_damage_vs_empire	Missile Damage: %+n% when fighting against Empire	false
+effects_description_nanu_stat_missile_damage_vs_forces_of_destruction	Missile Damage: %+n% when fighting against Greenskins, Skaven, Dark Elves, Beastmen, Warriors of Chaos, Daemons of Chaos and Norsca	false
+effects_description_nanu_stat_missile_damage_vs_forces_of_evil	Missile Damage: %+n% when fighting against Vampire Counts, Skaven, Dark Elves, Beastmen, Warriors of Chaos, and Daemons of Chaos	false
+effects_description_nanu_stat_missile_damage_vs_greenskins	Missile Damage: %n% when fighting against Greenskins	false
+effects_description_nanu_stat_missile_damage_vs_greenskins_skaven_ogres	Missile Damage: %n% when fighting against Greenskins, Ogres and Skaven	false
+effects_description_nanu_stat_missile_damage_vs_high_elves	Missile damage: %+n% when fighting against High Elves	false
+effects_description_nanu_stat_missile_damage_vs_human	Missile Damage: %+n% when fighting against Humans	false
+effects_description_nanu_stat_missile_damage_vs_khorne	Missile damage: %+n% when fighting against Khornate Factions	false
+effects_description_nanu_stat_missile_damage_vs_kislev	Weapon strength: %+n% when fighting against Kislev	false
+effects_description_nanu_stat_missile_damage_vs_lizardmen	Missile damage: %+n% when fighting against Lizardmen	false
+effects_description_nanu_stat_missile_damage_vs_nurgle	Missile damage: %+n% when fighting against Nurglish Factions	false
+effects_description_nanu_stat_missile_damage_vs_ogres	Missile Damage: %+n% when fighting against Ogre Kingdoms	false
+effects_description_nanu_stat_missile_damage_vs_forces_of_order	Missile Damage: %+n% when fighting against High Elves, Lizardmen, Dwarfs and men	false
+effects_description_nanu_stat_missile_damage_vs_skaven	Missile damage: %+n% when fighting against Skaven	false
+effects_description_nanu_stat_missile_damage_vs_slaanesh	Missile damage: %+n% when fighting against Slaaneshi Factions	false
+effects_description_nanu_stat_missile_damage_vs_tomb_kings	Missile damage: %+n% when fighting against Tomb Kings	false
+effects_description_nanu_stat_missile_damage_vs_undead	Missile Damage: %+n% when fighting against Undead Factions	false
+effects_description_nanu_stat_missile_damage_vs_vampire_counts	Missile Damage: %+n% when fighting against Vampire Counts	false
+effects_description_nanu_stat_missile_damage_vs_wood_elves	Missile damage: %+n% when fighting against Wood Elves	false
+effects_description_nanu_stat_missile_resistance_vs_dwarfs	Missile resistance: %n% when fighting against Dwarfs	false
+effects_description_nanu_stat_missile_resistance_vs_high_elves	Missile resistance: %n% when fighting against High Elves	false
+effects_description_nanu_stat_missile_resistance_vs_kislev	Missile resistance: %n% when fighting against Kislev	false
+effects_description_nanu_stat_missile_resistance_vs_vampire_coast	Missile resistance: %n% when fighting against Vampire Coast	false
+effects_description_nanu_stat_reload_vs_chaos	Reload time reduction: %+n% when fighting against Warriors of Chaos, Daemons of Chaos and Norsca	false
+effects_description_nanu_stat_reload_vs_khorne	Reload time reduction: %+n% when fighting against Khornate Factions	false
+effects_description_nanu_stat_reload_vs_nurgle	Reload time reduction: %+n% when fighting against Nurglish Factions	false
+effects_description_nanu_stat_reload_vs_slaanesh	Reload time reduction: %+n% when fighting against Slaaneshi Factions	false
+effects_description_nanu_stat_ward_save_vs_bretonnia	Ward save: %n% when fighting against Bretonnia	false
+effects_description_nanu_stat_ward_save_vs_lizardmen	Ward save: %n% when fighting against Lizardmen	false
+effects_description_nanu_stat_ward_save_vs_nurgle	Ward save: %n% when fighting against Nurglish Factions	false
+effects_description_nanu_stat_ward_save_vs_undead	Ward save: %n% when fighting against Undead Factions	false
+effects_description_nanu_unit_ability_acquiescence_disable	[HIDDEN]	false
+effects_description_nanu_unit_ability_ash_storm	Bound spell: "Ash Storm Upgraded"	false
+effects_description_nanu_unit_ability_blade_of_khorne	Ability: "Blade of Khorne"	false
+effects_description_nanu_unit_ability_blightboil_self	Ability: "Blight Boil"	false
+effects_description_nanu_unit_ability_blood_frenzy	Ability: "Blood Fenzy"	false
+effects_description_nanu_unit_ability_blue_fire_of_tzeentch_disable	[HIDDEN]	false
+effects_description_nanu_unit_ability_blue_fire_of_tzeentch_num_uses	Ability number of uses: %+n for "Blue Fire of Tzeentch"	false
+effects_description_nanu_unit_ability_bonecrusher	Ability: "Bonecrusher"	false
+effects_description_nanu_unit_ability_bound_soulblight	Bound spell: "Soulblight"	false
+effects_description_nanu_unit_ability_bound_soulblight_num_uses_hidden	Ability number of uses: %+n for "Spirit Leech"	false
+effects_description_nanu_unit_ability_bullgorger	Ability: "Bullgorger"	false
+effects_description_nanu_unit_ability_burning_head	Ability: "The Burning Head"	false
+effects_description_nanu_unit_ability_construct_killer	Ability: "Construct Killer"	false
+effects_description_nanu_unit_ability_daemon_slayer	Ability: "Daemon Slayer"	false
+effects_description_nanu_unit_ability_enable_bound_acquiescence_num_uses	Ability number of uses: %+n for "Acquiescence"	false
+effects_description_nanu_unit_ability_enable_lash_of_slaanesh_num_uses	Ability number of uses: %+n for "Lash of Slaanesh"	false
+effects_description_nanu_unit_ability_fecundity	Ability: "Fecundity"	false
+effects_description_nanu_unit_ability_final_transmutation	Ability: "Final Transmutation"	false
+effects_description_nanu_unit_ability_fire_flaming_sword_of_rhuin	Ability: "Flaming Sword of Rhuin"	false
+effects_description_nanu_unit_ability_firing_line	Ability: "Firing Line"	false
+effects_description_nanu_unit_ability_firing_line_aoe	Ability: "Firing Line"	false
+effects_description_nanu_unit_ability_force_feed_bugmans_brew	Ability: "Bugman's Brew"	false
+effects_description_nanu_unit_ability_force_feed_kvas	Ability: "Kvas"	false
+effects_description_nanu_unit_ability_impetuous	Ability: "Impetuous"	false
+effects_description_nanu_unit_ability_knightslayer	Ability: "Knightslayer"	false
+effects_description_nanu_unit_ability_lance	Ability: "Lance"	false
+effects_description_nanu_unit_ability_lash_of_slaanesh_disable	[HIDDEN]	false
+effects_description_nanu_unit_ability_magma_storm_lesser	Ability: "Magma Storm"	false
+effects_description_nanu_unit_ability_melkoths_mystifying_miasma	Ability: "Melkoth's Mystifying Miasma"	false
+effects_description_nanu_unit_ability_melkoths_mystifying_miasma_num_uses	Ability number of uses: %+n for "Melkoth's Mystifying Miasma"	false
+effects_description_nanu_unit_ability_miasma_of_pestilence_disable	[HIDDEN]	false
+effects_description_nanu_unit_ability_monstrous_strength	Ability: "Monstrous Strength"	false
+effects_description_nanu_unit_ability_pack_trap	Ability: "Pack Trap"	false
+effects_description_nanu_unit_ability_passive_bile_blood	Passive ability: "Spurting Bile Blood"	false
+effects_description_nanu_unit_ability_penumbral_pendulum_miasma_num_uses	Ability number of uses: %+n for "The Penumbral Pendulum"	false
+effects_description_nanu_unit_ability_piercing_bolts_of_burning	Ability: "Piercing Bolts of Burning"	false
+effects_description_nanu_unit_ability_pink_fire_of_tzeentch_disable	[HIDDEN]	false
+effects_description_nanu_unit_ability_pink_fire_of_tzeentch_num_uses	Ability number of uses: %+n for "Pink Fire of Tzeentch"	false
+effects_description_nanu_unit_ability_primal_roar	Ability: "Primal Roar"	false
+effects_description_nanu_unit_ability_rampaging_poison	Ability: "Rampaging Poison"	false
+effects_description_nanu_unit_contact_nightgoblin_poison	Ability: "Night Goblin Poison"	false
+effects_description_nanu_unit_ability_rapid_fire	Ability: "Rapid Fire"	false
+effects_description_nanu_unit_ability_rapid_fire_aoe	Ability: "Rapid Fire"	false
+effects_description_nanu_unit_ability_revel_in_fear	Passive ability: "Revel in Fear"	false
+effects_description_nanu_unit_ability_rival_hide_talisman	Ability: "Rival Hide Talisman"	false
+effects_description_nanu_unit_ability_searing_doom	Bound spell: "Searing Doom"	false
+effects_description_nanu_unit_ability_skavenbrew	Ability: "Skavenbrew"	false
+effects_description_nanu_unit_ability_smoke_bomb	Ability: "Smoke Bomb"	false
+effects_description_nanu_unit_ability_soul_rend	Ability: "Soul Rend"	false
+effects_description_nanu_unit_ability_spirit_leech_num_uses_hidden	Ability number of uses: %+n for "Spirit Leech"	false
+effects_description_nanu_unit_ability_stream_of_corruption_bound	Ability: "Stream of Corruption"	false
+effects_description_nanu_unit_ability_stream_of_corruption_disable	[HIDDEN]	false
+effects_description_nanu_unit_ability_swiftness_of_itzl	Ability: "Swiftness of Itzl"	false
+effects_description_nanu_unit_ability_toothcracker	Ability: "Toothcracker"	false
+effects_description_nanu_unit_ability_trollguts	Ability: "Trollguts"	false
+effects_description_nanu_unit_ability_undying_will	Passive ability: "Undying Will"	false
+effects_description_nanu_unit_ability_urannons_thunderbolt	Bound spell: "Urannon's Thunderbolt"	false
+effects_description_nanu_unit_ability_volley_arcane	Ability: "Arcane Volley"	false
+effects_description_nanu_unit_ability_volley_arcane_greater	Ability: "Greater Arcane Volley"	false
+effects_description_nanu_unit_ability_volley_barbed	Ability: "Barbed Volley"	false
+effects_description_nanu_unit_ability_volley_barbed_greater	Ability: "Greater Barbed Volley"	false
+effects_description_nanu_unit_ability_volley_bonus_vs_large	Ability: "Broadhead Volley"	false
+effects_description_nanu_unit_ability_volley_bonus_vs_large_greater	Ability: "Greater Broadhead Volley"	false
+effects_description_nanu_unit_ability_volley_fire_charge	Ability: "Fire Charge Volley"	false
+effects_description_nanu_unit_ability_volley_fire_charge_greater	Ability: "Greater Fire Charge Volley"	false
+effects_description_nanu_unit_ability_volley_flaming	Ability: "Flaming Volley"	false
+effects_description_nanu_unit_ability_volley_flaming_greater	Ability: "Greater Flaming Volley"	false
+effects_description_nanu_unit_ability_volley_ice_shard	Ability: "Ice Shard Volley"	false
+effects_description_nanu_unit_ability_volley_ice_shard_greater	Ability: "Greater Ice Shard Volley"	false
+effects_description_nanu_unit_ability_volley_piercing	Ability: "Piercing Volley"	false
+effects_description_nanu_unit_ability_volley_piercing_greater	Ability: "Greater Piercing Volley"	false
+effects_description_nanu_unit_ability_volley_poison	Ability: "Poison Volley"	false
+effects_description_nanu_unit_ability_volley_poison_greater	Ability: "Greater Poison Volley"	false
+effects_description_nanu_unit_ability_wake_of_fire	Ability: "Wake of Fire"	false
+effects_description_nanu_unit_ability_worlds_edge_armour	Ability: "World's Edge Armour"	false
+effects_description_nanu_unit_contact_armour_destruction	Armour Destruction Attacks	false
+effects_description_nanu_unit_contact_bleed	Bleed Attacks	false
+effects_description_nanu_unit_contact_blinded	Blinding Attacks	false
+effects_description_nanu_unit_contact_bone_breaker	Bone Breaker Attacks	false
+effects_description_nanu_unit_contact_burnt	Attacks cause "Burnt" effect, reducing leadership	false
+effects_description_nanu_unit_contact_corrosion	Corrosive Attacks	false
+effects_description_nanu_unit_contact_crushing	Crushing Attacks	false
+effects_description_nanu_unit_contact_corrupting	Corrupting Attacks	false
+effects_description_nanu_unit_contact_dark_blood	Dark Blood Attacks	false
+effects_description_nanu_unit_contact_deadly_poison	Deadly Poison	false
+effects_description_nanu_unit_contact_disharmony	Disharmony Attacks	false
+effects_description_nanu_unit_contact_disoriented	Disorienting Attacks	false
+effects_description_nanu_unit_contact_disrupted	Disrupted Attacks	false
+effects_description_nanu_unit_contact_entangled	Entangling Attacks	false
+effects_description_nanu_unit_contact_entropic	Entropic Attacks	false
+effects_description_nanu_unit_contact_euphoric	Euphoric Attacks	false
+effects_description_nanu_unit_contact_freezing	Freezing Attacks	false
+effects_description_nanu_unit_contact_frostfire	Frostfire Attacks	false
+effects_description_nanu_unit_contact_naphtha	Naphtha Attacks	false
+effects_description_nanu_unit_contact_potent_poison	Potent Poison	false
+effects_description_nanu_unit_contact_rampage	Rampaging Attacks	false
+effects_description_nanu_unit_contact_rampaging_poison	Rampaging Poison	false
+effects_description_nanu_unit_contact_searing	Searing Attacks	false
+effects_description_nanu_unit_contact_shieldbreaker	Shieldbreaker Attacks	false
+effects_description_nanu_unit_contact_suppressed	Suppressive Fire Attacks	false
+effects_description_nanu_unit_contact_toxic_sludge	Toxic Sludge Attacks	false
+effects_description_nanu_unit_contact_virulent_poison	Virulent Poison	false
+effects_description_nanu_unit_contact_weakened	Weakening Attacks	false
+effects_description_nanu_unit_passive_amphibious	Passive ability: "Amphibious"	false
+effects_description_nanu_unit_passive_aura_of_blood	Passive ability: "Blood Ward Aura"	false
+effects_description_nanu_unit_passive_aura_of_dispelling	Aura of Dispelling	false
+effects_description_nanu_unit_passive_aura_of_hexing	Passive ability: "Aura of Hexing"	false
+effects_description_nanu_unit_passive_aura_of_protection	Passive ability: "Aura of Protection"	false
+effects_description_nanu_unit_passive_aura_of_purity	Passive ability: "Aura of Purity"	false
+effects_description_nanu_unit_passive_aura_of_rust	Passive ability: "Aura of Rust"	false
+effects_description_nanu_unit_passive_aura_of_shielding	Passive ability: "Aura of Shielding"	false
+effects_description_nanu_unit_passive_aura_of_warding	Passive ability: "Aura of Warding"	false
+effects_description_nanu_unit_passive_barrier_boost	Passive ability: "Barrier Boost"	false
+effects_description_nanu_unit_passive_bathed_in_blood	Passive ability: "Bathed in Blood"	false
+effects_description_nanu_unit_passive_beacon_of_hope	Passive ability: "Beacon of Hope"	false
+effects_description_nanu_unit_passive_blazing_aura	Passive ability: "Blazing Aura"	false
+effects_description_nanu_unit_passive_blinding_radiance	Passive ability: "Blinding Radiance"	false
+effects_description_nanu_unit_passive_blood_gods_rage	Passive ability: "Blood God's Rage"	false
+effects_description_nanu_unit_passive_blood_rage	Passive ability: "Blood Rage"	false
+effects_description_nanu_unit_passive_bloodthirst	Passive ability: "Bloodthirst"	false
+effects_description_nanu_unit_passive_bloodthirsty_rampage	Passive ability: "Bloodthirsty Rampage"	false
+effects_description_nanu_unit_passive_brace	Passive ability: "Brace"	false
+effects_description_nanu_unit_passive_by_our_blood	Passive ability: "By Our Blood"	false
+effects_description_nanu_unit_passive_cathayan_martial_mastery	Passive ability: "Martial Mastery"	false
+effects_description_nanu_unit_passive_charge_breaker	Passive ability: "Charge Breaker"	false
+effects_description_nanu_unit_passive_clairvoyance	Clairvoyance	false
+effects_description_nanu_unit_passive_courage_in_death	Passive ability: "Courage in Death"	false
+effects_description_nanu_unit_passive_crowfeast	Passive ability: "Crowfeast"	false
+effects_description_nanu_unit_passive_crush_the_weak	Passive ability: "Crush the Weak"	false
+effects_description_nanu_unit_passive_dark_prince_forsaken	Passive ability: "Dark Prince Forsaken"	false
+effects_description_nanu_unit_passive_defensive_stance	Passive ability: "Defensive Stance"	false
+effects_description_nanu_unit_passive_disharmony	Passive ability: "Disharmony"	false
+effects_description_nanu_unit_passive_dread_aversion	Passive ability: "Dread Aversion"	false
+effects_description_nanu_unit_passive_dread_legion	Passive ability: "Dread Legion"	false
+effects_description_nanu_unit_passive_endless_drum	Passive ability: "Endless Drum"	false
+effects_description_nanu_unit_passive_ensorcelled_weapons	Passive ability: "Ensorcelled Weapons"	false
+effects_description_nanu_unit_passive_ensorcelled_weapons_aoe	Passive ability: "Aura of Ensorcelling"	false
+effects_description_nanu_unit_passive_ensorcelled_weapons_entropic	Passive ability: "Ensorcelled Weapons (Entropic)"	false
+effects_description_nanu_unit_passive_ensorcelled_weapons_entropic_aoe	Passive ability: "Aura of Ensorcelling (Entropic)"	false
+effects_description_nanu_unit_passive_ensorcelled_weapons_flaming	Passive ability: "Ensorcelled Weapons (Flaming)"	false
+effects_description_nanu_unit_passive_ensorcelled_weapons_flaming_aoe	Passive ability: "Aura of Ensorcelling (Flaming)"	false
+effects_description_nanu_unit_passive_ensorcelled_weapons_poison	Passive ability: "Ensorcelled Weapons (Poison)"	false
+effects_description_nanu_unit_passive_ensorcelled_weapons_poison_aoe	Passive ability: "Aura of Ensorcelling (Poison)"	false
+effects_description_nanu_unit_passive_entrench	Passive ability: "Entrench"	false
+effects_description_nanu_unit_passive_ever_burning_light	Passive ability: "Ever Burning Light"	false
+effects_description_nanu_unit_passive_expert_skirmisher	Passive ability: "Expert Skirmisher"	false
+effects_description_nanu_unit_passive_field_medic	Passive ability: "Field Medic"	false
+effects_description_nanu_unit_passive_flanker	Passive ability: "Flanker"	false
+effects_description_nanu_unit_passive_flesh_stitch	Passive ability: "Flesh Stitch"	false
+effects_description_nanu_unit_passive_frenzied_charge	Passive ability: "Frenzied Charge"	false
+effects_description_nanu_unit_passive_from_the_mist	Passive ability: "From the Mist"	false
+effects_description_nanu_unit_passive_gloom_of_flies	Passive ability: "Gloom of Flies"	false
+effects_description_nanu_unit_passive_gravity_shift	Passive ability: "Gravity Shift"	false
+effects_description_nanu_unit_passive_grim_resolve	Passive ability: "Grim Resolve"	false
+effects_description_nanu_unit_passive_hawkish_precision	Passive ability: "Hawkish Precision"	false
+effects_description_nanu_unit_passive_heroic_charge	Passive ability: "Heroic Charge"	false
+effects_description_nanu_unit_passive_holy_aura	Passive ability: "Holy Aura"	false
+effects_description_nanu_unit_passive_immaculate_charge	Passive ability: "Immaculate Charge"	false
+effects_description_nanu_unit_passive_kvas_flasks	Ability: "Kvas Flasks"	false
+effects_description_nanu_unit_passive_living_armour	Passive ability: "Living Armour"	false
+effects_description_nanu_unit_passive_luck_of_ranald	Passive ability: "Luck of Ranald"	false
+effects_description_nanu_unit_passive_martial_mastery	Passive ability: "Martial Mastery"	false
+effects_description_nanu_unit_passive_murderous_mastery	Passive ability: "Murderous Mastery"	false
+effects_description_nanu_unit_passive_overwhelming_odor	Passive ability: "Overwhelming Odour"	false
+effects_description_nanu_unit_passive_primal_instincts	Passive ability: "Primal Intincts"	false
+effects_description_nanu_unit_passive_purge_the_foul	Passive ability: "Purge the Foul"	false
+effects_description_nanu_unit_passive_relentless_assault	Passive ability: "Relentless Assault"	false
+effects_description_nanu_unit_passive_resplendent_armour	Passive ability: "Resplendent Armour"	false
+effects_description_nanu_unit_passive_run_them_down	Passive ability: "Run Them Down"	false
+effects_description_nanu_unit_passive_snare_nets	Passive ability: "Snare-net"	false
+effects_description_nanu_unit_passive_soulscent	Passive ability: "Soulscent"	false
+effects_description_nanu_unit_passive_spellshield_aura	Passive ability: "Spellshield Aura"	false
+effects_description_nanu_unit_passive_spurting_acid_blood	Passive ability: "Spurting Acid Blood"	false
+effects_description_nanu_unit_passive_steel	Passive ability: "Steel"	false
+effects_description_nanu_unit_passive_stone	Passive ability: "Stone"	false
+effects_description_nanu_unit_passive_strength_of_the_great_bastion	Passive ability: "Strength of the Great Bastion"	false
+effects_description_nanu_unit_passive_swarm_of_rats	Passive ability: "Swarm of Rats"	false
+effects_description_nanu_unit_passive_tamed	Passive ability: "Tamed"	false
+effects_description_nanu_unit_passive_terrifying_charge	Passive ability: "Terrifying Charge"	false
+effects_description_nanu_unit_passive_terrifying_rampage	Passive ability: "Terrifying Rampage"	false
+effects_description_nanu_unit_passive_thornmail	Passive ability: "Thornmail"	false
+effects_description_nanu_unit_passive_totem_of_endless_bloodletting	Passive ability: "Totem of Endless Bloodletting"	false
+effects_description_nanu_unit_passive_undaunted	Passive ability: "Undaunted"	false
+effects_description_nanu_unit_passive_undying_tide	Passive ability: "Undying Tide"	false
+effects_description_nanu_unit_passive_unending_volley	Passive ability: "Unending Volley"	false
+effects_description_nanu_unit_passive_unstable_winds	Passive ability: "Unstable Winds"	false
+effects_description_nanu_unit_passive_unstoppable_charge	Passive ability: "Unstoppable Charge"	false
+effects_description_nanu_unit_passive_unstoppable_rampage	Passive ability: "Unstoppable Rampage"	false
+effects_description_nanu_unit_passive_valiant_war_cry	Passive ability: "Valiant Warcry"	false
+effects_description_nanu_unit_passive_vengeful_war_cry	Passive ability: "Vengeful Warcry"	false
+effects_description_nanu_unit_passive_vicious_war_cry	Passive ability: "Vicious Warcry"	false
+effects_description_nanu_unit_passive_violent_war_cry	Passive ability: "Violent Warcry"	false
+effects_description_nanu_unit_passive_waaagh	Passive ability: "Waaagh!"	false
+effects_description_nanu_unit_passive_withering_heat	Passive ability: "Withering Heat"	false
+effects_description_nanu_attribute_enable_cause_terror_vs_cth	Attribute: Causes Terror when fighting against Cathay	false
+effects_description_nanu_attribute_enable_cause_terror_vs_ogr	Attribute: Causes Terror when fighting against Ogre Kingdoms	false
+effects_description_nanu_unit_ability_nightgoblin_poison	Ability: "Nightgoblin Poison"	false
+effects_description_nanu_stat_melee_defence_vs_lizardmen	Melee Defence: %n when fighting against Lizardmen	false
+effects_description_nanu_stat_ward_save_vs_force_of_order	Ward Save: %+n% when fighting against High Elves, Lizardmen, Dwarfs and men	false
+effects_description_nanu_unit_passive_thunderous_aura	Passive ability: "Thunderous Aura"	false
+effects_description_nanu_unit_passive_thunderous_aura_greater	Passive ability: "Greater Thunderous Aura"	false
+effects_description_nanu_unit_passive_aura_of_healing	Passive ability: "Healing Aura"	false
+effects_description_nanu_unit_ability_frostfire_tempest	Ability: "Frostfire Tempest"	false
+effects_description_nanu_unit_ability_arcane_blast	Ability: "Arcane Blast"	false
+effects_description_nanu_unit_passive_freezing_aura	Ability: "Freezing Aura"	false
+effects_description_nanu_unit_ability_frozen_tomb	Ability: "Frozen Tomb"	false
+effects_description_nanu_unit_ability_frozen_tomb_aoe	Ability: "Frozen Tomb"	false
+effects_description_nanu_unit_ability_heart_of_winter	Ability: "Heart of Winter"	false
+effects_description_nanu_unit_ability_ice_sheet	Ability: "Ice Sheet"	false
+effects_description_nanu_unit_ability_glacial_blast	Ability: "Glacial Blast"	false
+effects_description_nanu_unit_ability_glacial_blast_greater	Ability: "Greater Glacial Blast"	false
+effects_description_nanu_unit_ability_biting_wind	Ability: "Biting Wind"	false
+effects_description_nanu_unit_ability_blizzard	Ability: "Blizzard"	false
+effects_description_nanu_unit_ability_hailstorm	Ability: "Hailstorm"	false
+effects_description_nanu_unit_ability_death_explosion_daemonic_wrath_large	Passive ability: "Daemonic Wrath"	false
+effects_description_nanu_unit_ability_death_explosion_flaming_small	Passive ability: "Flaming Death"	false
+effects_description_nanu_unit_ability_death_explosion_flaming_medium	Passive ability: "Flaming Death"	false
+effects_description_nanu_unit_ability_death_explosion_flaming_large	Passive ability: "Flaming Death"	false
+effects_description_nanu_unit_ability_death_explosion_gaseous_medium	Passive ability: "Gaseous Demise"	false
+effects_description_nanu_unit_ability_death_explosion_gaseous_small	Passive ability: "Gaseous Demise"	false
+effects_description_nanu_unit_ability_death_explosion_gaseous_large	Passive ability: "Gaseous Demise"	false
+effects_description_nanu_unit_ability_death_explosion_warpfire_storm	Passive ability: "Destructive Death"	false
+effects_description_nanu_unit_ability_death_explosion_arcane_small	Passive ability: "Arcane Burst"	false
+effects_description_nanu_unit_ability_death_explosion_arcane_medium	Passive ability: "Arcane Burst"	false
+effects_description_nanu_unit_ability_death_explosion_tempest	Passive ability: "Tempestuous Death"	false
+effects_description_nanu_unit_ability_death_explosion_frozen_tempest	Passive ability: "Tempestuous Death"	false
+effects_description_nanu_unit_ability_death_explosion_warp_discharge_small	Passive ability: "Warp Discharge"	false
+effects_description_nanu_unit_ability_death_explosion_warp_discharge_medium	Passive ability: "Warp Discharge"	false
+effects_description_nanu_unit_ability_death_explosion_warp_discharge_large	Passive ability: "Warp Discharge"	false
+effects_description_nanu_unit_ability_death_explosion_watery_grave	Passive ability: "Watery Grave"	false
+effects_description_nanu_unit_ability_death_explosion_rancid_blood	Passive ability: "Rancid Blood"	false
+effects_description_nanu_unit_ability_death_explosion_purple_sun	Passive ability: "Spiteful Death"	false
+effects_description_nanu_unit_ability_death_explosion_daemonic_wrath_small	Passive ability: "Daemonic Wrath"	false
+effects_description_nanu_unit_ability_death_explosion_holy_fire	Passive ability: "Cleansing Fire"	false
+effects_description_nanu_unit_ability_death_explosion_warpgas_small	Passive ability: "Volatile Death"	false
+effects_description_nanu_unit_ability_death_explosion_ice_blast	Passive ability: "Frozen Grave"	false
+effects_description_nanu_unit_contact_exposed	Exposing Attacks	false
+effects_description_nanu_unit_contact_shocking	Shocking Attacks	false
+effects_description_nanu_unit_contact_electrified	Electrifying Attacks	false
+effects_description_nanu_unit_attribute_unyielding_assault	Attribute: Unyielding Assault	false
+effects_description_nanu_dynamic_ror_death_explosion_all_arcane_small_magic_attacks_ammo_type_magic	Passive ability: "Arcane Burst"	false
+effects_description_nanu_dynamic_ror_death_explosion_all_arcane_medium_magic_attacks_ammo_type_magic	Passive ability: "Arcane Burst"	false
+effects_description_nanu_ammo_type_seeking	Seeker Ammo	false
+effects_description_nanu_ammo_type_seeking_arcane_fire	Magic Flaming Seeker Ammo	false
+effects_description_nanu_ammo_type_seeking_flaming	Flaming Seeker Ammo	false
+effects_description_nanu_ammo_type_seeking_frozen	Frozen Seeker Ammo	false
+effects_description_nanu_ammo_type_seeking_lightning	Lightning Seeker Ammo	false
+effects_description_nanu_ammo_type_seeking_magic	Magic Seeker Ammo	false
+effects_description_nanu_ammo_type_seeking_poison	Poison Seeker Ammo	false
+effects_description_nanu_dummy_ammo_type_frozen	Grants Frozen Ammo to eligible units	false
+effects_description_nanu_dummy_ammo_type_lightning	Grants Lightning Ammo to eligible units	false
+effects_description_nanu_dummy_ammo_type_anti_infantry_frozen	Grants Frozen Anti Infantry Ammo to eligible units	false
+effects_description_nanu_dummy_ammo_type_anti_infantry_lightning	Grants Lightning Anti Infantry Ammo to eligible units	false
+effects_description_nanu_dummy_ammo_type_anti_large_frozen	Grants Frozen Anti Large Ammo to eligible units	false
+effects_description_nanu_dummy_ammo_type_anti_large_lightning	Grants Lightning Anti Large Ammo to eligible units	false
+effects_description_nanu_dummy_ammo_type_explosive_frozen	Grants Frozen Explosive Ammo to eligible units	false
+effects_description_nanu_dummy_ammo_type_explosive_lightning	Grants Lightning Explosive Ammo to eligible units	false
+effects_description_nanu_dummy_ammo_type_multi_frozen	Grants Frozen Multi Ammo to eligible units	false
+effects_description_nanu_dummy_ammo_type_multi_lightning	Grants Lightning Multi Ammo to eligible units	false
+effects_description_nanu_dummy_ammo_type_seeking	Grants Seeker Ammo to eligible units	false
+effects_description_nanu_dummy_ammo_type_seeking_arcane_fire	Grants Magic Flaming Seeker Ammo to eligible units	false
+effects_description_nanu_dummy_ammo_type_seeking_flaming	Grants Flaming Seeker Ammo to eligible units	false
+effects_description_nanu_dummy_ammo_type_seeking_frozen	Grants Magic Seeker Ammo to eligible units	false
+effects_description_nanu_dummy_ammo_type_seeking_lightning	Grants Lightning Seeker Ammo to eligible units	false
+effects_description_nanu_dummy_ammo_type_seeking_magic	Grants Magic Seeker Ammo to eligible units	false
+effects_description_nanu_dummy_ammo_type_seeking_poison	Grants Poison Seeker Ammo to eligible units	false
+effects_description_nanu_context_climate_chaotic_wasteland	Won a Battle in a Chaotic Wastleland climate	false
+effects_description_nanu_context_climate_desert	Won a Battle in a Desert climate	false
+effects_description_nanu_context_climate_frozen	Won a Battle in a Frozen climate	false
+effects_description_nanu_context_climate_jungle	Won a Battle in a Jungle climate	false
+effects_description_nanu_context_climate_magical_forest	Won a Battle in a Magical Forest climate	false
+effects_description_nanu_context_climate_mountain	Won a Battle in a Mountain climate	false
+effects_description_nanu_context_climate_ocean	Won a Battle at sea	false
+effects_description_nanu_context_climate_savannah	Won a Battle in a Savannah climate	false
+effects_description_nanu_context_climate_temperate	Won a Battle in a Temperate climate	false
+effects_description_nanu_context_climate_temperate_island	Won a Battle in an Island climate	false
+effects_description_nanu_context_climate_wasteland	Won a Battle in a Wasteland climate	false
+effects_description_nanu_unit_attribute_vanguard_climate_desert	Attribute: Vanguard Deployment when fighting in desert terrain	false
+effects_description_nanu_unit_attribute_strider_climate_desert	Attribute: Strider when fighting in desert terrain	false
+effects_description_nanu_unit_ability_wayfarer_climate_desert	Passive ability: "Wayfarer" when fighting in desert terrain	false
+effects_description_nanu_unit_attribute_snipe_climate_desert	Attribute: Snipe when fighting in desert terrain	false
+effects_description_nanu_unit_attribute_stalk_climate_desert	Attribute: Stalk when fighting in desert terrain	false
+effects_description_nanu_unit_contact_deathfrost	Death Frost Attacks	false
+effects_description_nanu_unit_passive_forest_stalker	Passive ability: "Forest Stalker"	false
+effects_description_nanu_unit_ability_wayfarer_climate_frozen	Passive ability: "Wayfarer" when fighting in frozen terrain	false
+effects_description_nanu_unit_attribute_vanguard_climate_frozen	Attribute: Vanguard Deployment when fighting in frozen terrain	false
+effects_description_nanu_stat_physical_resistance_climate_frozen	Physical resistance: %n% when fighting in frozen terrain	false
+effects_description_nanu_unit_ability_wayfarer_climate_mountain_hills	Passive ability: "Wayfarer" when fighting in mountainous and hilly terrain	false
+effects_description_nanu_stat_physical_resistance_climate_mountain_hills	Physical resistance: %n% when fighting in mountainous and hilly terrain	false
+effects_description_nanu_unit_attribute_vanguard_climate_mountain_hills	Attribute: Vanguard Deployment when fighting in mountainous and hilly terrain	false
+effects_description_nanu_unit_passive_crabfeast	Passive ability: "Crabfeast"	false
+effects_description_nanu_unit_attribute_vanguard_climate_ocean	Attribute: Vanguard Deployment when fighting at sea	false
+effects_description_nanu_stat_physical_resistance_climate_ocean	Physical resistance: %n% when fighting at sea	false
+effects_description_nanu_unit_attribute_strider_climate_wasteland	Passive ability: "Wayfarer" when fighting in barren wasteland terrain	false
+effects_description_nanu_unit_passive_counter_charge	Passive ability: "Counter Charge"	false
+effects_description_nanu_unit_passive_banish_daemons	Passive ability: "Banish Daemons"	false
+effects_description_nanu_unit_passive_banish_undead	Passive ability: "Banish Undead"	false
+effects_description_nanu_unit_contact_slow_death	Slow Death Attacks	false
+effects_description_nanu_unit_passive_flame_incarnate	Passive ability: "Flame Incarnate"	false
+effects_description_nanu_unit_passive_piercing_gaze	Passive ability: "Piercing Gaze"	false
+effects_description_nanu_unit_passive_soothing_warmth	Passive ability: "Soothing Warmth"	false
+effects_description_nanu_unit_ability_burning_alignment	Passive ability: "Burning Alignment"	false
+effects_description_nanu_unit_passive_tactical_mastery	Passive ability: "Tactical Mastery"	false
+effects_description_nanu_unit_contact_warp_shock	Warp Shock!	false
+effects_description_nanu_unit_contact_warp_zap	Warp Zap!	false
+effects_description_nanu_unit_ability_warp_storm	Passive ability: "Warp Storm"	false
+effects_description_nanu_unit_passive_warp_storm_aura	Passive ability: "Warp Storm Aura"	false

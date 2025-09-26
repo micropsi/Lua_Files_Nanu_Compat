@@ -1,0 +1,5 @@
+key	text	tooltip
+#Loc;1;text/db/!!_nanu_dynamic_rors_vanilla_overrides.loc		
+unit_attributes_removed_effect_text_yang	Removes Yang	false
+unit_attributes_removed_effect_text_yin	Removes Yin	false
+unit_abilities_tooltip_text_wh3_main_unit_passive_gorefeast	When the bloodlust and frenzy are at their utmost levels, minor wounds are healed by feasting on the flesh of the weak and the fallen.	false

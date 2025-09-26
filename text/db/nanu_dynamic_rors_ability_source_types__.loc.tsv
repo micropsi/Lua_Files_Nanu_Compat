@@ -1,0 +1,4 @@
+key	text	tooltip
+#Loc;1;text/db/nanu_dynamic_rors_ability_source_types__.loc		
+unit_ability_source_types_name_attribute	Attribute	false
+unit_ability_source_types_tooltip_attribute	Attributes grant units bonuses based on specific battelfield contexts	false
