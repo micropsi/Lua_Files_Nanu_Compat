@@ -1,0 +1,4 @@
+key	generate	ui_image	prioritised	event_category	override_icon	is_large_incident	additional_sound_event	sepia_fade	use_revealing_text
+#incidents_tables;7;db/incidents_tables/nanu_dynamic_rors									
+nanu_dynamic_ror_incident_ror_created	false	army_morale_up	false	Event		false		1.0000	false
+nanu_dynamic_ror_incident_ror_created_no_target	false	army_morale_up	false	Event		false		1.0000	false

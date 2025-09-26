@@ -1,0 +1,4 @@
+key	lookahead_time	max_target_angle_delta	start_time	steering_coefficient
+#projectile_homing_params_tables;0;db/projectile_homing_params_tables/nanu_dynamic_rors				
+nanu_dynamic_ror_magic_arrow_homing_param	0.2000	180.0000	1.0000	0.0750
+nanu_dynamic_ror_magical_artillery_low_scattered_homing_param	1.5000	30.0000	1.0000	0.1000

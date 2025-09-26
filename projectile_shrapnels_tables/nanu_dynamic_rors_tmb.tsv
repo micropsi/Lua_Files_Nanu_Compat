@@ -1,0 +1,7 @@
+key	projectile	amount	launch_type	sector_angle
+#projectile_shrapnels_tables;0;db/projectile_shrapnels_tables/nanu_dynamic_rors_tmb				
+nanu_tmb_ushabti_shrapnel_magic	nanu_tmb_ushabti_shrapnel_magic	8	sector	45.0000
+nanu_tmb_ushabti_shrapnel	nanu_tmb_ushabti_shrapnel	8	sector	45.0000
+nanu_tmb_ushabti_shrapnel_poison	nanu_tmb_ushabti_shrapnel_poison	8	sector	45.0000
+nanu_tmb_ushabti_shrapnel_arcane_fire	nanu_tmb_ushabti_shrapnel_arcane_fire	8	sector	45.0000
+nanu_tmb_ushabti_shrapnel_flaming	nanu_tmb_ushabti_shrapnel_flaming	8	sector	45.0000

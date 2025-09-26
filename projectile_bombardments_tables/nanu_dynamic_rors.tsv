@@ -1,0 +1,8 @@
+bombardment_key	arrival_window	num_projectiles	projectile_type	radius_spread	start_time	launch_source	launch_vfx	launch_height	audio_type	launch_height_underground	randomise_launch	deterministic_launch_cadence
+#projectile_bombardments_tables;7;db/projectile_bombardments_tables/nanu_dynamic_rors												
+nanu_unit_passive_unstable_winds	0.1000	1	wh2_main_army_abilities_skaven_bomb	1.0000	1.0000	launch_and_explode		1		1	true	false
+nanu_unit_passive_thunderous_aura	1.0000	1	nanu_unit_passive_thunderous_aura	20.0000	3.0000	above_target		100		75	true	false
+nanu_unit_passive_thunderous_aura_greater	1.0000	3	nanu_unit_passive_thunderous_aura_greater	30.0000	3.0000	above_target		100		75	true	false
+nanu_unit_ability_warp_storm	13.0000	13	wh2_main_spell_ruin_warp_lightning	13.0000	1.0000	above_target	wh2_main_ruin_warp_lightning_launch	150	wh_main_spell_ruin_warp_lightning	75	true	false
+nanu_unit_passive_warp_storm_aura	2.0000	1	wh2_main_spell_ruin_warp_lightning	20.0000	1.0000	above_target	wh2_main_ruin_warp_lightning_launch	150	wh_main_spell_ruin_warp_lightning	75	true	false
+nanu_unit_ability_warp_storm_centered	13.0000	13	wh2_main_spell_ruin_warp_lightning	13.0000	1.0000	above_target	wh2_main_ruin_warp_lightning_launch	150	wh_main_spell_ruin_warp_lightning	75	true	false

@@ -1,0 +1,5 @@
+key	projectile	amount	launch_type	sector_angle
+#projectile_shrapnels_tables;0;db/projectile_shrapnels_tables/nanu_dynamic_rors_skv				
+nanu_skv_poison_wind_mortar_multi	nanu_skv_poison_wind_mortar_multi_shrapnel	8	hemisphere	160.0000
+nanu_skv_poison_wind_mortar_multi_arcane_fire	nanu_skv_poison_wind_mortar_multi_arcane_fire	8	hemisphere	160.0000
+nanu_skv_poison_wind_mortar_multi_lightning	nanu_skv_poison_wind_mortar_multi_lightning_shrapnel	8	hemisphere	160.0000

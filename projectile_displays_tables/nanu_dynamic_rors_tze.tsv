@@ -1,0 +1,4 @@
+key	display_model	impact	launch_fx	trail_fx	stationary_fx	airborne_anim	landing_anim	tip_offset	trail_spin	launch_camera_shake	impact_bounce	impact_penetrate	impact_blood	impact_bounce_blood	impact_penetrate_blood	mirroring_start	mirroring_trail	scale
+#projectile_displays_tables;12;db/projectile_displays_tables/nanu_dynamic_rors_tze																		
+nanu_tze_soul_grinder_bolt_lightning		nanu_particle_effect_explosion_lightning		nanu_particle_effect_lightning_trail_medium				0.0000	true	wh_main_unit_launch_light	nanu_particle_effect_explosion_lightning	nanu_particle_effect_explosion_lightning				wh3_main_yin_missile_mirror_impact_medium	wh3_main_spell_yin_missile_mirror_trail_medium	1.0000
+nanu_tze_horror_blue_fire_bolt_lightning		nanu_particle_effect_explosion_lightning_small		nanu_particle_effect_lightning_trail_small				0.0000	false			wh_main_entity_impact				wh3_main_yin_missile_mirror_impact_small	wh3_main_spell_yin_missile_mirror_trail_small	1.0000

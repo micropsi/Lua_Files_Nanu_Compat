@@ -1,0 +1,4 @@
+key	projectile	amount	launch_type	sector_angle
+#projectile_shrapnels_tables;0;db/projectile_shrapnels_tables/nanu_dynamic_rors_cst				
+nanu_cst_mortar_bomb_multi_arcane_fire	nanu_cst_mortar_shell_multi_arcane_fire_shrapnel	10	hemisphere	90.0000
+nanu_cst_mortar_bomb_multi_magic	nanu_cst_mortar_shell_multi_magic_shrapnel	10	hemisphere	90.0000

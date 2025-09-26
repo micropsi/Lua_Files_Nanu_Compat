@@ -1,0 +1,7 @@
+key	precursor	default_projectile	audio_type	use_secondary_ammo_pool
+#missile_weapons_tables;11;db/missile_weapons_tables/nanu_dynamic_rors_sla				
+nanu_sla_javelin_anti_infanty	false	nanu_sla_javelin_anti_infanty		false
+nanu_sla_javelin_anti_large	false	nanu_sla_javelin_anti_large		false
+nanu_sla_javelin_explosive	false	nanu_sla_javelin_explosive		false
+nanu_sla_javelin_multi	false	nanu_sla_javelin_multi		false
+nanu_sla_javelin_seeking	false	nanu_sla_javelin_seeking		false

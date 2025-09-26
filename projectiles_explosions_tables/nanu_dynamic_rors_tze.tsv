@@ -1,0 +1,6 @@
+key	detonator_type	detonation_type	detonation_radius	detonation_duration	detonation_speed	detonation_damage	shrapnel	explosion_particle_effect	fuse_distance_from_target	explosion_particle_effect_on_ground	explosion_audio	contact_phase_effect	ignition_amount	is_magical	detonation_damage_ap	camera_shake	detonation_force	fuse_fixed_time	affects_allies	is_spell
+#projectiles_explosions_tables;19;db/projectiles_explosions_tables/nanu_dynamic_rors_tze																				
+nanu_tze_javelin_explosive	percussive	shockwave	3.0000	0.0000	10.0000	18.0000		wh3_main_entity_tze_soulgrinder_spear_impact	0.0000				0.0000	true	7.0000		80.0000	-1.0000	true	false
+nanu_tze_javelin_explosive_lightning	percussive	shockwave	3.0000	0.0000	10.0000	18.0000		nanu_particle_effect_explosion_lightning	0.0000				0.0000	true	7.0000		80.0000	-1.0000	true	false
+nanu_tze_blue_horror_fire_bolt_explosive	percussive	shockwave	2.0000	0.0000	10.0000	10.0000			0.0000				0.0000	true	5.0000		80.0000	-1.0000	true	false
+nanu_tze_blue_horror_fire_bolt_explosive_lightning	percussive	shockwave	2.0000	0.0000	10.0000	10.0000		nanu_particle_effect_explosion_lightning_small	0.0000				0.0000	true	5.0000		80.0000	-1.0000	true	false
