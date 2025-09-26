@@ -1,0 +1,6 @@
+key	phase	spread_radius
+#special_ability_spreadings_tables;0;db/special_ability_spreadings_tables/nanu_dynamic_rors		
+nanu_unit_passive_valiant_war_cry	nanu_unit_passive_valiant_war_cry	35.0000
+nanu_unit_passive_vengeful_war_cry	nanu_unit_passive_vengeful_war_cry	35.0000
+nanu_unit_passive_vicious_war_cry	nanu_unit_passive_vicious_war_cry	35.0000
+nanu_unit_passive_violent_war_cry	nanu_unit_passive_violent_war_cry	35.0000
